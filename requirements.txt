@@ -5,3 +5,5 @@ streamlit
 keras
 scikit-learn
 openpyxl
+google- genetive
+tensorflow
